@@ -1,4 +1,7 @@
-﻿using System.Linq;
+﻿// Copyright (c) zollty (zolltytsou@gmail.com). All rights reserved.
+// Licensed under the MIT License. See LICENSE in the project root for license information.
+
+using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Documents;
